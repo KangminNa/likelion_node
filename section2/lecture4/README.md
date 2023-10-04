@@ -44,11 +44,11 @@ console.log(test2());
 
 ```
 
-image1
+[image1](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/1.png?raw=true)
 
-image2
+[image2](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/2.png?raw=true)
 
-image3
+[image3](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/3.png?raw=true)
 
 - ES 모듈을 사용하면 오른쪽과 같이 사용할 수 있음.
 
