@@ -44,13 +44,14 @@ console.log(test2());
 
 ```
 
-[image1](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/1.png?raw=true)
+![image1](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/1.png?raw=true)
+- commonjs와 es모듈의 차이를 하나로 정리되어있는 표
 
-[image2](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/2.png?raw=true)
+![image2](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/2.png?raw=true)
 
-[image3](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/3.png?raw=true)
+![image3](https://github.com/KangminNa/likelion_node/blob/main/section2/lecture4/3.png?raw=true)
 
-- ES 모듈을 사용하면 오른쪽과 같이 사용할 수 있음.
+- ES 모듈을 사용하면 아래과 같이 사용할 수 있음.
 
 # 다이내믹 임포트
 
