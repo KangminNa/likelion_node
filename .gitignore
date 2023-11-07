@@ -177,4 +177,4 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node,macos
 
 # 개인
-.master/ch7/7.6/learn-sequlize/config
+.master/ch7/7.6/learn-sequelize/config
